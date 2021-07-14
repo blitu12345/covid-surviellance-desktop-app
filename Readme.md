@@ -1,5 +1,4 @@
-### use venv3613
-
+## Note: I've used python3 virenv for this project
 
 ## install nanodet in your system
 https://github.com/RangiLyu/nanodet
