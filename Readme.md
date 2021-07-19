@@ -10,3 +10,11 @@ pip -r install requirements
 python3 surv-video-v2.py
 
 ## after starting the app enter full video path and press enter
+
+
+## Some screenshot of app
+![Screen 1](hackcovid2.0-images/page1.png)
+
+![Screen 1](hackcovid2.0-images/page2.png)
+
+![Screen 1](hackcovid2.0-images/page3.png)
